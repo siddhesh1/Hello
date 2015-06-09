@@ -1,2 +1,2 @@
 # Hello
-This is just to test.
+This is just a test.
